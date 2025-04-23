@@ -1,9 +1,4 @@
 /* CV Template Styles */
-body {
-  background-color: #fef6e4; /* Warm pastel background */
-  color: #001858; /* Dark navy text for contrast */
-}
-
 .cv-container {
   max-width: 1000px;
   margin: 0 auto;
