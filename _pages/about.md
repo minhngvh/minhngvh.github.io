@@ -13,5 +13,5 @@ In the fall of 2025, I will be a PhD student in Applied and Computational Mathem
 
 ### Research Interests: 
 - Partial Differential Equations
-- Optimal transport and Gradient flows
-- Machine learning and computational mathematics
+- Optimal Transport and Differential Geometry
+- Machine Learning and Computational Mathematics
