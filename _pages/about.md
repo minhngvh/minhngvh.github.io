@@ -15,3 +15,7 @@ In the fall of 2025, I will be a PhD student in Applied and Computational Mathem
 - Partial Differential Equations
 - Optimal Transport and Differential Geometry
 - Machine Learning and Computational Mathematics
+
+### Personal Interests: 
+Outside of mathematics, I do Brazilian Jiu Jitsu, wrestle and support Manchester United!
+
