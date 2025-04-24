@@ -28,20 +28,26 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
 :root {
-  --global-base-color                 : #8e8571;
-  --global-bg-color                   : #faf9f5;
-  --global-footer-bg-color            : #f3f0eb;
-  --global-border-color               : #f5f0e6;
-  --global-dark-border-color          : #d8d1bc;
-  --global-code-background-color      : #f7f6f0;
-  --global-code-text-color            : #4f4638;
-  --global-fig-caption-color          : #b9b097;
-  --global-link-color                 : #b37f58;
-  --global-link-color-hover           : #8c5d3c;
-  --global-link-color-visited         : #ab8361;
-  --global-masthead-link-color        : #6c5d46;
-  --global-masthead-link-color-hover  : #4f4436;
-  --global-text-color                 : #4f4638;
-  --global-text-color-light           : #bab19b;
-  --global-thead-color                : #e1d5b9;
+  --global-base-color                 : #8e8571;  /* Muted brown */
+  --global-bg-color                   : #faf9f5;  /* Soft off-white */
+  --global-footer-bg-color            : #f3f0eb;  /* Light beige */
+  --global-border-color               : #f5f0e6;  /* Warm beige */
+  --global-dark-border-color          : #d8d1bc;  /* Light brown */
+  --global-code-background-color      : #f7f6f0;  /* Pale beige */
+  --global-code-text-color            : #4f4638;  /* Deep brownish-gray */
+  --global-fig-caption-color          : #b9b097;  /* Olive gray */
+  --global-link-color                 : #b37f58;  /* Terracotta */
+  --global-link-color-hover           : #8c5d3c;  /* Clay brown */
+  --global-link-color-visited         : #ab8361;  /* Muted tan */
+  --global-masthead-link-color        : #6c5d46;  /* Dark olive */
+  --global-masthead-link-color-hover  : #4f4436;  /* Deep olive */
+  --global-text-color                 : #4f4638;  /* Dark brown */
+  --global-text-color-light           : #bab19b;  /* Light olive gray */
+  --global-thead-color                : #e1d5b9;  /* Soft olive yellow */
+  
+  /* New added greens */
+  --global-accent-green               : #3c6e47;  /* Deep forest green */
+  --global-light-green                : #6f9e6e;  /* Soft sage green */
+  --global-dark-green                 : #2a4d39;  /* Dark pine green */
+  --global-green-link-hover           : #567d56;  /* Muted moss green */
 }
