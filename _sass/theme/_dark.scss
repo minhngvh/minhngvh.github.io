@@ -35,27 +35,20 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
 html[data-theme="dark"] {
-    --global-base-color                 : #1c1c1c;  /* Dark base for background */
-    --global-bg-color                   : #121212;  /* Deep dark gray */
-    --global-footer-bg-color            : #1e1e1e;  /* Slightly lighter gray for footer */
-    --global-border-color               : #555;     /* Dark gray border */
-    --global-dark-border-color          : #333;     /* Darker gray border for depth */
-    --global-code-background-color      : #2a2a2a;  /* Dark code block background */
-    --global-code-text-color            : #dcdcdc;  /* Light gray for code text */
-    --global-fig-caption-color          : #9a9a9a;  /* Light gray caption */
-    --global-link-color                 : #1f73b7;  /* Electric blue */
-    --global-link-color-hover           : #3685d9;  /* Lighter blue on hover */
-    --global-link-color-visited         : #1e5b94;  /* Darker blue for visited links */
-    --global-masthead-link-color        : #ffffff;  /* White masthead links */
-    --global-masthead-link-color-hover  : #e2e2e2;  /* Light gray on hover */
-    --global-text-color                 : #e1e1e1;  /* Soft light gray for text */
-    --global-text-color-light           : #b5b5b5;  /* Slightly darker light gray */
-    --global-thead-color                : #2a2a2a;  /* Darker header color */
-    
-    /* Futuristic Blue */
-    --global-futuristic-blue            : #1f73b7;  /* Main electric blue */
-    --global-futuristic-blue-hover      : #3685d9;  /* Lighter hover effect */
-    
-    /* Futuristic Orange */
-    --global-futuristic-orange          : #ff7f00;  /* Neon orange */
-    --global-futuristic-orange-hover    : #ff9b33;  /* Light neon orange hover */
+    --global-base-color                 : #{$background};
+    --global-bg-color                   : #{$background};
+    --global-footer-bg-color            : #{$background};
+    --global-border-color               : #{$light-gray};
+    --global-dark-border-color          : #{$background-light};
+    --global-code-background-color      : #fafafa;
+    --global-code-text-color            : #{$darker-gray};
+    --global-fig-caption-color          : #{$light-gray};
+    --global-link-color                 : #{$link};
+    --global-link-color-hover           : #{$link-dark};
+    --global-link-color-visited         : #{$link-light};
+    --global-masthead-link-color        : #{$text};
+    --global-masthead-link-color-hover  : #{$background-light};
+    --global-text-color                 : #{$text};
+    --global-text-color-light           : #{$light-gray};
+    --global-thead-color                : #{$background-lighter};
+}
