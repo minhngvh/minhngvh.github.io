@@ -13,6 +13,8 @@ main:
     
   - title: "CV"
     url: /files/Minh_PhD_application_CV.pdf
+    external: true
+
 
   - title: "Notes"
     url: /notes/
