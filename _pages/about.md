@@ -19,7 +19,4 @@ In the fall of 2025, I will be a PhD student in Applied and Computational Mathem
 ### Personal Interests: 
 Outside of mathematics, I do Brazilian Jiu Jitsu  and support Manchester United!
 
-<div style="transform: scale(0.25); transform-origin: top center;">
-  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=Ceg-UwgcaLaizijCmYAS6xNnxttbdlSepmriZ8cfBM8"></script>
-</div>
-
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=mtH-Pr0d3swe2WdQUTQVBf8Lz4RgVr7NC04XYL59i_Y&cl=ffffff&w=a"></script>
