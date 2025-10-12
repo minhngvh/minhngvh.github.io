@@ -15,9 +15,6 @@ main:
     url: /files/MinhNguyen CV Oct2025.pdf
     external: true
 
-
-  - title: "Notes"
-    url: /notes/
     
   # - title: "CV"
   #   url: /cv-json/
