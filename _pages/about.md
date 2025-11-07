@@ -16,7 +16,7 @@ Previously, I studied Mathematics at Michigan State University, where I work wit
 - Optimal Transport and Partial Differential Equations
 - Machine Learning and Computational Mathematics
 
-### Research Interests: 
+### News: 
 - 11/6/25: New preprint is now on arXiv: check it out: https://arxiv.org/abs/2511.04579. Joint work with Ricardo Baptista, Franca Hoffmann and Ben Zhang
 - 7/20/25: My co-first author paper has been accepted into the IEEE Journal of Selected Topics in Signal Processing: https://ieeexplore.ieee.org/abstract/document/11199960. Joint work with SLIM Group at MSU.
 
