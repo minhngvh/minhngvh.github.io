@@ -22,6 +22,3 @@ Previously, I studied Mathematics at Michigan State University, where I work wit
 
 ### Personal Interests: 
 Outside of mathematics, I do Brazilian Jiu Jitsu  and support Manchester United!
-
----
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=mtH-Pr0d3swe2WdQUTQVBf8Lz4RgVr7NC04XYL59i_Y&cl=ffffff&w=a"></script>
