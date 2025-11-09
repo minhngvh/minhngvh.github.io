@@ -11,9 +11,9 @@ main:
   #- title: "Publications"
   #  url: /publications/
     
-  # - title: "CV"
-  #   url: /files/MinhNguyen CV Oct2025.pdf
-  #   external: true
+  - title: "CV"
+    url: /files/MinhNguyen CV Oct2025.pdf
+    external: true
 
     
   # - title: "CV"
