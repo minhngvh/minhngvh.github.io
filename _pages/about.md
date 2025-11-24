@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Minh Nguyen (Minh Van-Hoang Nguyen) and I am currently a first-year PhD student at Caltech in Applied and Computational Mathematics at Caltech working with Professor [Franca Hoffmann](https://www.eas.caltech.edu/people/franca-hoffmann).
+My name is Minh Nguyen (Minh Van-Hoang Nguyen, Vietnamese: Nguyễn Văn Hoàng Minh) and I am currently a first-year PhD student at Caltech in Applied and Computational Mathematics at Caltech working with Professor [Franca Hoffmann](https://www.eas.caltech.edu/people/franca-hoffmann).
 
 Previously, I studied Mathematics at Michigan State University, where I work with Professor [Jun Kitagawa](https://users.math.msu.edu/users/jun/) on optimal transport and gradient flows. 
 
