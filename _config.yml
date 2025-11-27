@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Minh Nguyen"
+title                    : "Minh Van Hoang Nguyen"
 title_separator          : "-"
-name                     : &name "Minh Nguyen"
+name                     : &name "Minh Van Hoang Nguyen"
 description              : &description " Applied + Computational Math PhD student at Caltech"
 url                      : https://minhngvh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Minh Nguyen"
+  name             : "Minh (Van Hoang) Nguyen"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Caltech"
   location         : "Pasadena, California"
